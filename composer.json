@@ -1,0 +1,10 @@
+{
+    "name": "fly/kui",
+    "description": "extra for php",
+    "license": "MIT",
+    "autoload" : {
+        "psr-4" : {
+            "Kendo\\" : "src"
+        }
+    }
+}
